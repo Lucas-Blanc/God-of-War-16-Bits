@@ -1,0 +1,3 @@
+/// @description Definit le blend mode pour dessiner.
+/// @param mode The blend mode constant est definit sur...
+gpu_set_colorwriteenable( argument0, argument1, argument2, argument3 );
