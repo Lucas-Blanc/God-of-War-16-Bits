@@ -1,0 +1,1 @@
+if(oKratos.heal) instance_destroy();

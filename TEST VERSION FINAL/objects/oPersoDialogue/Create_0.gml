@@ -1,0 +1,1 @@
+spriteAct = 0;

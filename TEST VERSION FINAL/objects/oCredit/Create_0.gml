@@ -1,0 +1,1 @@
+audio_play_sound(sonGenerique,1, true);
